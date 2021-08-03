@@ -1,4 +1,13 @@
- #om_oss {
+.news {
+    max-width: 550px;
+    padding: 1em;
+}
+
+.subsection p {
+    padding-top: 1em;
+}
+
+#om_oss, #partnere {
      background-color: var(--background-color);
  }
 
